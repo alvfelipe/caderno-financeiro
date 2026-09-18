@@ -1,0 +1,1 @@
+import{rt as e}from"../chunks/cEzMaQzT.js";import{s as t}from"../chunks/CuFEnoX2.js";import{i as n}from"../chunks/BJtpVFjv.js";var r=e({load:()=>i}),i=async()=>{n(307,`${t}/dashboard`)};export{r as universal};

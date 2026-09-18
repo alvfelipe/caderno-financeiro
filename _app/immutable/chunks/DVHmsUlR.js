@@ -1,0 +1,1 @@
+import{W as e}from"./cEzMaQzT.js";var t=e({request:null}),n=null;function r(e){t.request=null,n?.(e),n=null}function i(e){return t.request={title:e.title,message:e.message,confirmLabel:e.confirmLabel??`Confirmar`,destructive:e.destructive??!0},new Promise(e=>{n=e})}export{t as n,r,i as t};
